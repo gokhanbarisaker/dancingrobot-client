@@ -36,4 +36,5 @@ class Test(object):
         assert len(commits) > 0
 
 
-# Test().run()
+if __name__ == "__main__":
+    Test().run()
