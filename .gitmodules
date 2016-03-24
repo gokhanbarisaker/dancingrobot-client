@@ -1,0 +1,3 @@
+[submodule "external/requests"]
+	path = external/requests
+	url = git://github.com/kennethreitz/requests.git
